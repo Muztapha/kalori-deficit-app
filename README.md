@@ -1,10 +1,10 @@
-# 🧮 Calorie Tracker Console App (C#)
+#  Calorie Tracker Console App (C#)
 
 This is a simple calorie tracking and calculation application built using C#. The app calculates daily calorie needs based on user inputs and provides feedback on whether the user is in a calorie deficit or surplus.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Basal Metabolic Rate (BMR) calculation
 - Extra calorie estimation based on daily steps
@@ -14,7 +14,7 @@ This is a simple calorie tracking and calculation application built using C#. Th
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - C#
 - .NET Console Application
@@ -22,7 +22,7 @@ This is a simple calorie tracking and calculation application built using C#. Th
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone or download the project
 2. Open the solution in Visual Studio
@@ -31,10 +31,10 @@ This is a simple calorie tracking and calculation application built using C#. Th
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 - Variables and data types in C#
-- Conditional statements (if / else)
+- Conditionel statements (if / else)
 - Basic mathematical operations
 - Console input and output handling
 - File/project structure in .NET
@@ -42,13 +42,13 @@ This is a simple calorie tracking and calculation application built using C#. Th
 
 ---
 
-## 📷 Note
+##  Note
 
 This project was built for learning purposes and can be improved further with additional features.
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 
 - Daily history tracking (file or database storage)
 - Graphical UI (WinForms / WPF)
@@ -57,4 +57,4 @@ This project was built for learning purposes and can be improved further with ad
 
 ---
 
-👩‍💻 Developer: Muztapha
+ Developer: Muztapha
